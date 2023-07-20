@@ -11,7 +11,7 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "LucasVidigal98",
   "license": "MIT",
   "devDependencies": {
     "@ignite-ui/eslint-config": "*",
